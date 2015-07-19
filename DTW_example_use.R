@@ -1,5 +1,4 @@
 ###Examples on how use the DTW for measuring latency differences
-setwd('/Users/az61/Google Drive/DTW Latency Analysis/for_github')
 x<-c("dtw", "caTools")
 lapply(x, require, character.only=T)
 source("functions_dtwlatency.R")
