@@ -1,4 +1,4 @@
-###Examples on how use the DTW for measuring latency differences
+###Examples on how to use the DTW for measuring latency differences
 x<-c("dtw", "caTools")
 lapply(x, require, character.only=T)
 source("functions_dtwlatency.R")
