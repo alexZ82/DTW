@@ -35,7 +35,7 @@ results$dtw_mode: The mode of the 'distances' distribution
 ### Examples
 Examples are located in DTW/DTW_example_use.R
 
-#### Example 1: Compare 2 sinusoid signals with a difference of 25 samples
+#### Example 1: Compare 2 sinusoid signals with a difference of 50 samples
 
 ![Example 1] [image1]
 [image1]: https://github.com/alexZ82/DTW/blob/master/example1.jpg
@@ -44,7 +44,7 @@ Examples are located in DTW/DTW_example_use.R
 #### Example 2: Compare ERPs 
 EEG conditions: 
 - Condition A: Data loaded from EEGR.data 731 trials
-- Condition B: Condition A pushed by 25 samples
+- Condition B: Condition A pushed by 50 samples
 
 ![Example 2] [image2]
 [image2]: https://github.com/alexZ82/DTW/blob/master/example2.jpg
