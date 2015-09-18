@@ -1,6 +1,10 @@
 # Dynamic Time Warping (DTW) for Measuring Event Related Potential latency differences
 ## The goal of this project was to formalise and evaluate the use of of DTW as a method of estimating latency differences in ERPs 
 
+## Published work
+
+This method is described in detail and compared against other popular methods in: [Zoumpoulaki, A., Alsufyani, A., Filetti, M., Brammer, M. and Bowman, H. (2015), Latency as a region contrast: Measuring ERP latency differences with Dynamic Time Warping. *Psychophysiology*. doi: 10.1111/psyp.12521] (http://onlinelibrary.wiley.com/doi/10.1111/psyp.12521/abstract). 
+
 **Problem**
 
 ERP latencies are considered very hard to measure, with the available methods (i.e. peak latency, fractional peak and fractional area) being characterized by several weaknesses, such as: 
@@ -59,3 +63,5 @@ EEG data set is randomly divided to Condition A and Condition B and then Conditi
 ![Example 3] [image3]
 [image3]: https://github.com/alexZ82/DTW/blob/master/example3.jpg
  
+
+
