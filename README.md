@@ -1,5 +1,5 @@
 # Dynamic Time Warping (DTW) for Measuring Event Related Potential latency differences
-## The goal of this project was to formalise and evaluate the use of of DTW as a method of estimating latency differences in ERPs 
+## The goal of this project was to formalise and evaluate the use of DTW as a method of estimating latency differences in ERPs 
 
 ## Published work
 
